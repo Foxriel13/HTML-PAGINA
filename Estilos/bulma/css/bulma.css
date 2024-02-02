@@ -1928,6 +1928,7 @@ fieldset[disabled] .button {
   margin: 0 auto;
   position: relative;
   width: auto;
+  margin-bottom: 4%;
 }
 
 .container.is-fluid {
@@ -6224,7 +6225,7 @@ a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover, a.navbar-i
 }
 
 .navbar-link:not(.is-arrowless) {
-  padding-right: 2.5em;
+  padding-right: 20em;
 }
 
 .navbar-link:not(.is-arrowless)::after {
@@ -11844,13 +11845,8 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
   }
 }
 
-.footer {
-  background-color: #fafafa;
-  padding: 3rem 1.5rem 6rem;
-}
 body {
   font-family: 'Arial', sans-serif;
-  background-color: #f2f2f2;
   margin: 0;
   padding: 0;
 }
@@ -11871,11 +11867,9 @@ footer {
   color: #fff;
   text-align: center;
   padding: 1em;
-  position: fixed;
   bottom: 0;
   width: 100%;
 }
-
 
 
 /*# sourceMappingURL=bulma.css.map */
