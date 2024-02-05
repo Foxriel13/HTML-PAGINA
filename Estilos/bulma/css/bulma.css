@@ -6225,7 +6225,7 @@ a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover, a.navbar-i
 }
 
 .navbar-link:not(.is-arrowless) {
-  padding-right: 20em;
+  padding-right: 3em;
 }
 
 .navbar-link:not(.is-arrowless)::after {
@@ -11870,6 +11870,8 @@ footer {
   bottom: 0;
   width: 100%;
 }
-
+#imagenFooter {
+  text-align: left;
+}
 
 /*# sourceMappingURL=bulma.css.map */
